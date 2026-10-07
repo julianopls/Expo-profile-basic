@@ -4,7 +4,7 @@ Tela de perfil simples feita com **React Native** e **Expo**. Mostra a foto, o n
 
 ## Preview
 
-![Preview do projeto](./teste.png)
+![Preview do projeto](./assets/images/teste.png)
 
 ## Tecnologias
 
@@ -43,7 +43,7 @@ app/
 assets/
   images/
     julianopls.png # Foto de perfil
-teste.png          # Imagem de preview usada neste README
+    teste.png      # Imagem de preview usada neste README
 ```
 
 ## Funcionalidades
